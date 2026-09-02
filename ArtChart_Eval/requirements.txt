@@ -1,0 +1,14 @@
+openai
+kaleido==0.2.1
+matplotlib
+megfile
+numpy==1.26.4
+paddleocr==3.3.2
+paddlepaddle-gpu==3.2.0
+pandas
+Pillow
+plotly==5.24.1
+python-magic
+requests
+scipy
+tqdm
